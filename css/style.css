@@ -1020,6 +1020,11 @@ form label {
   background: rgba(0, 0, 0, 0.04);
 }
 
+.header {
+    width: 60%;
+    margin: 10px;
+    position: relative;
+}
 .couple-wrap {
   width: 100%;
   margin: 0 auto;
