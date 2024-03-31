@@ -1001,6 +1001,8 @@ form label {
 .fh5co-section {
   padding: 7em 0;
   clear: both;
+  border-top: 2px solid #2c8a75;
+  border-bottom: 2px solid #2c8a75;
 }
 @media screen and (max-width: 768px) {
   #fh5co-testimonial,
@@ -1013,6 +1015,8 @@ form label {
   #fh5co-gallery,
   .fh5co-section {
     padding: 3em 0;
+    border-top: 2px solid #2c8a75;
+    border-bottom: 2px solid #2c8a75;
   }
 }
 
