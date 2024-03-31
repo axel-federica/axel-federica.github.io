@@ -1004,9 +1004,12 @@ form label {
   clear: both;
   border-top: 2px solid #2c8a75;
   border-bottom: 2px solid #2c8a75;
+
+}
+
+#fh5co-couple {    
   margin-top: 2em;
   margin-bottom: 2em;    
-
 }
 @media screen and (max-width: 768px) {
   #fh5co-testimonial,
@@ -1021,8 +1024,6 @@ form label {
     padding: 3em 0;
     border-top: 2px solid #2c8a75;
     border-bottom: 2px solid #2c8a75;
-    margin-top: 2em;
-    margin-bottom: 2em;    
 
 }
 
