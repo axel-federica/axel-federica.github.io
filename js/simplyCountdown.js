@@ -122,11 +122,16 @@
                 minutes: 0,
                 seconds: 0,
                 words: {
-                    days: 'day',
-                    hours: 'hour',
-                    minutes: 'minute',
-                    seconds: 'second',
-                    pluralLetter: 's'
+                    days: 'giorno/dag',
+                    hours: 'ora/timme',
+                    minutes: 'minuto/minut',
+                    seconds: 'secondo/sekund'
+                },
+                pluralWords: {
+                    days: 'giorni/dagar',
+                    hours: 'ore/timmar',
+                    minutes: 'minuti/minuter',
+                    seconds: 'secondi/sekunder'
                 },
                 plural: true,
                 inline: false,
@@ -215,19 +220,19 @@
 
                 if (parameters.plural) {
                     dayWord = days > 1
-                        ? parameters.words.days + parameters.words.pluralLetter
+                        ? parameters.pluralWords.days
                         : parameters.words.days;
 
                     hourWord = hours > 1
-                        ? parameters.words.hours + parameters.words.pluralLetter
+                        ? parameters.pluralWords.hours
                         : parameters.words.hours;
 
                     minuteWord = minutes > 1
-                        ? parameters.words.minutes + parameters.words.pluralLetter
+                        ? parameters.pluralWords.minutes
                         : parameters.words.minutes;
 
                     secondWord = seconds > 1
-                        ? parameters.words.seconds + parameters.words.pluralLetter
+                        ? parameters.pluralWords.seconds
                         : parameters.words.seconds;
 
                 } else {
