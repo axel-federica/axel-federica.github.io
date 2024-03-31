@@ -1166,8 +1166,8 @@ form label {
 }
 .feature-center h3 {
   text-transform: uppercase;
-  font-size: 18px;
-  color: #5d5d5d;
+  font-size: 30px;
+  color: #2c8a75;
 }
 
 .fh5co-heading {
@@ -1181,7 +1181,7 @@ form label {
   margin-bottom: 10px;
   line-height: 1.5;
   font-weight: bold;
-  color: #F14E95;
+  color: #2c8a75;
   font-family: "Tangerine", Arial, serif;
 }
 @media screen and (max-width: 768px) {
