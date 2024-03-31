@@ -860,6 +860,7 @@ form label {
     font-size: 30px;
   }
 }
+
 #fh5co-header .display-tc h2,
 #fh5co-counter .display-tc h2,
 .fh5co-cover .display-tc h2 {
@@ -1003,6 +1004,9 @@ form label {
   clear: both;
   border-top: 2px solid #2c8a75;
   border-bottom: 2px solid #2c8a75;
+  margin-top: 2em;
+  margin-bottom: 2em;    
+
 }
 @media screen and (max-width: 768px) {
   #fh5co-testimonial,
@@ -1017,7 +1021,9 @@ form label {
     padding: 3em 0;
     border-top: 2px solid #2c8a75;
     border-bottom: 2px solid #2c8a75;
-  }
+    margin-top: 2em;
+    margin-bottom: 2em;    
+
 }
 
 .fh5co-section-gray {
