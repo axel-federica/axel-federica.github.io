@@ -1021,9 +1021,10 @@ form label {
 }
 
 .header {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 60%;
-    margin: 10px;
-    position: relative;
 }
 .couple-wrap {
   width: 100%;
