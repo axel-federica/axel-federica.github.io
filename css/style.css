@@ -1021,7 +1021,7 @@ form label {
 }
 
 .couple-wrap {
-  width: 90%;
+  width: 100%;
   margin: 0 auto;
   position: relative;
 }
@@ -1056,7 +1056,7 @@ form label {
 }
 
 .couple-half {
-  width: 60%;
+  width: 50%;
   float: left;
 }
 @media screen and (max-width: 768px) {
@@ -1067,7 +1067,7 @@ form label {
 .couple-half h3 {
   font-family: "Tangerine", Arial, serif;
   color: #2c8a75;
-  font-size: 50px;
+  font-size: 40px;
   vertical-align: middle;
   font-weight: bold;
 }
