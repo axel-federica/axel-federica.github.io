@@ -1081,8 +1081,8 @@ form label {
   height: 150px;
 }
 .couple-half .groom img, .couple-half .bride img {
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -1094,8 +1094,8 @@ form label {
     height: 140px;
   }
   .couple-half .groom img, .couple-half .bride img {
-    width: 120px;
-    height: 120px;
+    width: 140px;
+    height: 140px;
     margin: 0 auto;
   }
 }
