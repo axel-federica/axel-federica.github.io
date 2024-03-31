@@ -1056,7 +1056,7 @@ form label {
 }
 
 .couple-half {
-  width: 50%;
+  width: 60%;
   float: left;
 }
 @media screen and (max-width: 768px) {
@@ -1067,7 +1067,7 @@ form label {
 .couple-half h3 {
   font-family: "Tangerine", Arial, serif;
   color: #2c8a75;
-  font-size: 30px;
+  font-size: 50px;
   vertical-align: middle;
   font-weight: bold;
 }
@@ -1077,8 +1077,8 @@ form label {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   border-radius: 50%;
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
 }
 .couple-half .groom img, .couple-half .bride img {
   width: 200px;
