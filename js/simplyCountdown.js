@@ -122,16 +122,16 @@
                 minutes: 0,
                 seconds: 0,
                 words: {
-                    days: 'giorno/dag',
-                    hours: 'ora/timme',
-                    minutes: 'minuto/minut',
-                    seconds: 'secondo/sekund'
+                    days: 'giorno/</br>dag',
+                    hours: 'ora/</br>timme',
+                    minutes: 'minuto/</br>minut',
+                    seconds: 'secondo/<br>sekund'
                 },
                 pluralWords: {
-                    days: 'giorni/dagar',
-                    hours: 'ore/timmar',
-                    minutes: 'minuti/minuter',
-                    seconds: 'secondi/sekunder'
+                    days: 'giorni/</br>dagar',
+                    hours: 'ore/</br>timmar',
+                    minutes: 'minuti/</br>minuter',
+                    seconds: 'secondi/</br>sekunder'
                 },
                 plural: true,
                 inline: false,
