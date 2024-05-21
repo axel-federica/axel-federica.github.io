@@ -1860,9 +1860,13 @@ form label {
     text-align: center;
 }
 
-.google-form h2 {
-    font-size: 30px;
-    margin-top: 5em;
+.form-header h2 {
+    font-size: 50px;
+    margin: 20px;
+    padding: 20px;
+    font-family: "Tangerine", Arial, serif;
+    font-weight: 400;
+    color: #f7546f;
 }
 
 
